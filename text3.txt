@@ -1,0 +1,10 @@
+boot
+core
+dataBase
+hybernate
+jdbc
+jpa
+mvc
+rest
+security
+validator
